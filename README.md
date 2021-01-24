@@ -24,6 +24,16 @@ El servidor ya está listo, así que podemos acceder a:\
 <http://localhost:5555>
 
 ## API
+### TODO LIST:
+1.
+2.
+3.
+
+
+### SOLUTIONS:
+1.
+2.
+3.
 
 
 ## Autor

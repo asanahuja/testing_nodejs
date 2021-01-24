@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/asanahuja/micuento_nodejs/issues"
   },
-  "homepage": "https://github.com/asanahuja/micuento_nodejs#readme"
+  "homepage": "https://github.com/asanahuja/micuento_nodejs#readme",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "fs": "0.0.1-security",
+    "marked": "^1.2.7",
+    "path": "^0.12.7"
+  }
 }
