@@ -1,0 +1,26 @@
+{
+  "name": "micuento_nodejs",
+  "version": "1.0.0",
+  "description": "Prueba Mi Cuento - Node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asanahuja/micuento_nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node.js",
+    "testing",
+    "API",
+    "RESTfull"
+  ],
+  "author": "Albert Sanahuja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asanahuja/micuento_nodejs/issues"
+  },
+  "homepage": "https://github.com/asanahuja/micuento_nodejs#readme"
+}
