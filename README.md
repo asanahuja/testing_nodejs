@@ -1,9 +1,17 @@
 # Prueba de node.js
 Prueba de conocimientos de node.js para back-end developer de [Mi Cuento](http://micuento.com)
+
+## El funcionamiento se puede ver en:
+http://vps158334.vps.ovh.ca:5555/
+
 ## Empezando ...
 ### Dependencias
 * Express.js
-* 
+* body-parse
+* fs
+* marked
+* path
+* pg
 > Las podéis ver en el fichero package.json
 ### Instalación de las dependencias
 1. Descargar o clonar el repositorio
