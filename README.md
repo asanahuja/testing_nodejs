@@ -1,5 +1,5 @@
 # Prueba de node.js
-Prueba de conocimientos de node.js para back-end developer de [Mi Cuento](http://micuento.com)
+Prueba de conocimientos de node.js para back-end developer
 
 ## El funcionamiento se puede ver en:
 http://vps158334.vps.ovh.ca:5555/
@@ -63,6 +63,6 @@ GET /task/:id
 Albert Sanahuja\
 > [LinkedIn](https://www.linkedin.com/in/albertsanahuja/)\
 [Github](https://github.com/asanahuja)\
-[e-mail](mailto://sanahuja.albert@gmail.com)
+[e-mail](mailto://albert.sanahuja@sdezaina.com)
 ## Version History
 * 0.0 - Init
